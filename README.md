@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/D3press3dd/nft-card-component)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-card-component-solution-9kIWSF2lb)
 - Live Site URL: [Live Preview](https://nft-card-component-anthonyrosman.netlify.app/)
 
 ### Built with
