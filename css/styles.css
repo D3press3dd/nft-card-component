@@ -112,6 +112,23 @@ span {
   margin-bottom: 1.2rem;
   border-bottom: 1px solid hsl(215, 32%, 27%);
   padding-bottom: 2rem;
+  position: relative;
+}
+
+.icon-clock {
+  position: absolute;
+  top: -1.1px;
+  left: 148px;
+}
+
+.icon-symbol {
+  position: absolute;
+  top: -2.2px;
+  left: -2.2px;
+}
+
+.eth {
+  padding: 0 1rem;
 }
 
 .creator-info img {
