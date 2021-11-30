@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot_1.png)
+![](https://raw.githubusercontent.com/D3press3dd/nft-card-component/main/Screenshot_1.png)
 
 ### Links
 
